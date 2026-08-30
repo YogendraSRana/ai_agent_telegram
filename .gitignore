@@ -1,3 +1,4 @@
 Data/
 agent_db/
 .env
+__pycache__/

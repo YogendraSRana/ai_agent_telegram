@@ -1,0 +1,10 @@
+python-telegram-bot
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langgraph
+pytz
+requests
+pypdf
+python-dotenv
